@@ -1,0 +1,4 @@
+com\rentease\service\AuthServiceTest.class
+com\rentease\service\BookingServiceTest.class
+com\rentease\RentEaseApplicationTests.class
+com\rentease\service\PropertyServiceTest.class
